@@ -1,3 +1,3 @@
 # Space-Physics
 
-![Space Header](https://drive.google.com/file/d/1J7Iccl6CJbUqUP0Y4xF24Ul-rsn0W9an/view?usp=sharing)
+![Space Header](https://github.com/ASAP-UDP/Space-Physics/blob/main/Image/SDO_Year6_HCblend_4k.jpg)
